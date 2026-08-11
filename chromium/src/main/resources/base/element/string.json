@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Chromium 2 in 1"
+    },
+    {
+      "name": "BrowserAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "BrowserAbility_label",
+      "value": "BrowserAbility"
+    },
+    {
+      "name": "StatelessAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "StatelessAbility_label",
+      "value": "StatelessAbility"
+    },
+    {
+      "name": "TaskManagerAbility_desc",
+      "value": "TaskManagerAbility"
+    },
+    {
+      "name": "TaskManagerAbility_label",
+      "value": "TaskManagerAbility"
+    },
+    {
+      "name": "OpenNewWindow_label",
+      "value": "OpenNewWindow"      
+    }
+  ]
+}

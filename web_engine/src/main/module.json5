@@ -1,0 +1,108 @@
+{
+  "module": {
+    "name": "web_engine",
+    "type": "har",
+    "deviceTypes": [
+      "tablet",
+      "2in1"
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.INTERNET"
+      },
+      {
+        "name": "ohos.permission.GET_NETWORK_INFO"
+      },
+      {
+        "name": "ohos.permission.LOCATION",
+        "reason": "$string:reason",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when":"always"
+        }
+      },
+      {
+        "name": "ohos.permission.APPROXIMATELY_LOCATION",
+        "reason": "$string:reason",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when":"always"
+        }
+      },
+      {
+        "name": "ohos.permission.ACCESS_CERT_MANAGER"
+      },
+      {
+        "name": "ohos.permission.MICROPHONE",
+        "reason": "$string:microphone",
+      },
+      {
+        "name": "ohos.permission.CAMERA",
+        "reason": "$string:camera",
+      },
+//      {
+//        "name": "ohos.permission.PRINT"
+//      },
+      {
+        "name": "ohos.permission.READ_PASTEBOARD",
+        "reason": "$string:access_pasteboard",
+      },
+      {
+        "name": "ohos.permission.ACCESS_BIOMETRIC"
+      },
+      {
+        "name": "ohos.permission.SYSTEM_FLOAT_WINDOW"
+      },
+      {
+        "name": "ohos.permission.ACCESS_BLUETOOTH",
+        "reason": "$string:access_bluetooth",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when":"always"
+        }
+      },      
+      {
+        "name": "ohos.permission.FILE_ACCESS_PERSIST"
+      },
+      {
+        "name": "ohos.permission.PREPARE_APP_TERMINATE"
+      },
+      {
+        "name": "ohos.permission.ACCELEROMETER"
+      },
+      {
+        "name": "ohos.permission.GYROSCOPE"
+      },
+      {
+        "name": "ohos.permission.SET_ABILITY_INSTANCE_INFO"
+      },
+      {
+        "name": "ohos.permission.GET_FILE_ICON"
+      },
+      {
+        "name": "ohos.permission.PRIVACY_WINDOW"
+      },
+      {
+        "name": "ohos.permission.CUSTOM_SCREEN_CAPTURE",
+        "reason": "$string:screenshot"
+      },
+      {
+        "name": "ohos.permission.LOCK_WINDOW_CURSOR"
+      },
+      {
+        "name": "ohos.permission.WEB_NATIVE_MESSAGING"
+      }
+    ],
+    "definePermissions": [
+      {
+        "name": "ohos.permission.LOCK_WINDOW_CURSOR"
+      },      
+    ]
+  }
+}

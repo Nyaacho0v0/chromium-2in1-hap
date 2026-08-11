@@ -1,0 +1,6 @@
+import("//build/config/cast.gni")
+import("//build/config/gclient_args.gni")
+
+declare_args() {
+  enable_libaom = !is_android && !is_castos
+}

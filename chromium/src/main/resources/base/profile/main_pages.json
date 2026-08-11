@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/SubWindow",
+    "pages/EmbeddedWindow",
+    "pages/WindowNode",
+    "pages/NodeHandleWindow",
+    "pages/NodeHandleSubWindow"
+  ]
+}

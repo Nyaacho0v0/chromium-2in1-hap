@@ -1,0 +1,7 @@
+chrome_version_major = "132"
+chrome_version_minor = "0"
+chrome_version_build = "6834"
+chrome_version_patch = "0"
+chrome_version_full = "132.0.6834.0"
+chrome_version_name = chrome_version_full
+chrome_version_code = 1326834000

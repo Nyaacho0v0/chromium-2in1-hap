@@ -1,0 +1,12 @@
+{
+  "license": "",
+  "devDependencies": {},
+  "author": "",
+  "name": "chromium2in1",
+  "description": "Chromium browser for HarmonyOS 2 in 1 devices.",
+  "main": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "web_engine": 'file:../web_engine',
+  }
+}

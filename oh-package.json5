@@ -1,0 +1,13 @@
+{
+  "modelVersion": "5.0.0",
+  "license": "",
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  },
+  "author": "",
+  "name": "chromium2in1",
+  "description": "Chromium browser HAP for HarmonyOS 2 in 1 devices.",
+  "main": "",
+  "version": "1.0.0",
+  "dependencies": {}
+}

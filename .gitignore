@@ -1,0 +1,24 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+chromium/libs/arm64-v8a/*.so
+web_engine/src/main/resources/resfile/*.pak
+web_engine/src/main/resources/resfile/*.dat
+web_engine/src/main/resources/resfile/*.bin
+web_engine/src/main/resources/resfile/locales/
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+
+# Local build/runtime artifacts
+chromium_workspace/
+*.hap
+web_engine/src/main/resources/resfile/
+
+# Local-only maintenance notes (never push)
+/CHROMIUM_MAINTENANCE.md
